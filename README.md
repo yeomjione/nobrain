@@ -12,7 +12,32 @@
 - []
 
 ## 이미지 
+
 <img width="260" height="280" alt="image" src="https://github.com/user-attachments/assets/3ce6d19f-54c0-4acc-9a94-db545642913d" />
+
+## 실행 방법
+
+(추후 프로젝트 계획 후 작성)
+
+## 현재 진행 상태
+
+0단계 - 프로젝트 고민
+
+### 1주차
+
+- 이번 주에 한 일: Github 사용 및 README.md 작성
+- 새롭게 알게 된 것: Github 저장소 및 README 작성 방법 학습
+- 어려웠던 점: Github를 처음 사용해서 초기 사용법에 대해 검색
+- 다음 주에 할 일: 수업 진도 따라가기, 프로젝트 구상
+
+### 2주차
+
+
+
+
+
+
+
 
 
 
